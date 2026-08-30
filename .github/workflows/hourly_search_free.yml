@@ -1,0 +1,35 @@
+name: Hourly Article Search Agent (Free)
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run search agent
+        run: python search_agent_free.py
+
+      - name: Commit and push results
+        run: |
+          git config user.name "article-search-agent"
+          git config user.email "actions@github.com"
+          git add results.md seen_papers.json
+          git diff --cached --quiet || git commit -m "Update search results ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+          git push
