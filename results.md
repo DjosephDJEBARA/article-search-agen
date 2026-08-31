@@ -8,3 +8,13 @@ https://www.semanticscholar.org/paper/1ae6aedd61617b056bd35b9249c8cf27fd5ec61f
 Matched terms: +three-phase, +spherical inclusion, +shear modulus, +finite element, +homogenization, +volume fraction
 
 > In the present study, Composite material consisting of an elastic homogeneous isotropic matrix in which are embedded coated elastic isotropic inclusions, widely used in many applications is investigate by homogenization approach coupled to the finite elements method. A finite element model is proposed to predict the Young and Shear modulus of the three-phase composite containing spherical inclusio...
+
+
+## Run: 2026-08-31 08:09 UTC
+
+### Effective mechanical properties of frozen hydrogel with ice inclusions. (2023) — score: 6
+https://www.semanticscholar.org/paper/4dfbd7410a1d37442192c33fd7d6a2f3334ced63
+
+Matched terms: +bulk modulus, +shear modulus, +mori-tanaka, +finite element, +homogenization, +volume fraction
+
+> Hydrogel exhibits attractive mechanical properties that can be regulated to be extremely tough, strong and resilient, adhesive and fatigue-resistant, thus enabling diverse applications ranging from tissue engineering scaffolds, flexible devices, to soft machines. As a liquid-filled porous material composed of polymer networks and water, the hydrogel freezes at subzero temperatures into a new mater...
