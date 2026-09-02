@@ -18,3 +18,13 @@ https://www.semanticscholar.org/paper/4dfbd7410a1d37442192c33fd7d6a2f3334ced63
 Matched terms: +bulk modulus, +shear modulus, +mori-tanaka, +finite element, +homogenization, +volume fraction
 
 > Hydrogel exhibits attractive mechanical properties that can be regulated to be extremely tough, strong and resilient, adhesive and fatigue-resistant, thus enabling diverse applications ranging from tissue engineering scaffolds, flexible devices, to soft machines. As a liquid-filled porous material composed of polymer networks and water, the hydrogel freezes at subzero temperatures into a new mater...
+
+
+## Run: 2026-09-02 20:33 UTC
+
+### Effective modules of two-phase construction composites with grain filler (2019) — score: 4
+https://www.semanticscholar.org/paper/62aa244134615db3e27decd27ec832af3da58201
+
+Matched terms: +rve, +spherical inclusion, +shear modulus, +volume fraction
+
+> In the book of R.M. Christensen, “Introduction to the Mechanics of Composites” (1982), a calculation formula is given for the bulk module of polydisperse composites with spherical inclusions. This formula has been known to the Russianspeaking reader for almost 40 years, but unfortunately, it is not used in the practice of building materials science. To identify applied possibilities, R.M. Christen...
