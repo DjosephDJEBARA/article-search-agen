@@ -28,3 +28,13 @@ https://www.semanticscholar.org/paper/62aa244134615db3e27decd27ec832af3da58201
 Matched terms: +rve, +spherical inclusion, +shear modulus, +volume fraction
 
 > In the book of R.M. Christensen, “Introduction to the Mechanics of Composites” (1982), a calculation formula is given for the bulk module of polydisperse composites with spherical inclusions. This formula has been known to the Russianspeaking reader for almost 40 years, but unfortunately, it is not used in the practice of building materials science. To identify applied possibilities, R.M. Christen...
+
+
+## Run: 2026-09-06 13:56 UTC
+
+### Multiscale numerical homogenization to predict the effective electrical conductivity of matrix-inclusion composites (2025) — score: 6
+https://www.semanticscholar.org/paper/fe14992403a3deb9d0de48e676b3e59b3339d0f8
+
+Matched terms: +representative volume element, +rve, +spherical inclusion, +finite element, +homogenization, +volume fraction
+
+> Electrical conductivity is a critical physical property due to its significant role in various industrial applications. Precise determination of this property enables optimized material selection and supports the advancement of innovative technologies. In this study, the effective electrical conductivity of three-dimensional (3D) matrix–inclusion composites containing randomly distributed, non-ove...
