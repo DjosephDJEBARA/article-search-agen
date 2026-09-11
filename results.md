@@ -72,3 +72,13 @@ https://www.semanticscholar.org/paper/9ccdb28d24f0d253beed74b5b6f803db94007ab7
 Matched terms: +representative volume element, +rve, +porosity, +finite element
 
 > This study developed microstructure-based finite element (FE) models to investigate the behavior of cold-sprayed aluminum–alumina (Al-Al2O3) metal matrix composite (MMC) coatings subject to indentation and quasi-static compression loading. Based on microstructural features (i.e., particle weight fraction, particle size, and porosity) of the MMC coatings, 3D representative volume elements (RVEs) we...
+
+
+## Run: 2026-09-11 08:37 UTC
+
+### Finite element-based homogenization model to determine effective properties of 0–3 and 1–3 electrostrictive composite (2022) — score: 5
+https://www.semanticscholar.org/paper/40696102d08bbf869f4fd7a34474d1e8a4149509
+
+Matched terms: +representative volume element, +rve, +spherical particle, +finite element, +homogenization
+
+> Representative volume element (RVE) based finite element method is employed to evaluate all the effective properties of electrostrictive composite. The attention is paid to designing the periodic boundary conditions to be applied to RVEs of electrostrictive study. The present study is conducted on particulate and fiber electrostrictive composites, in which electrostrictive ceramic (Pb(Mg1/3Nb2/3)O...
